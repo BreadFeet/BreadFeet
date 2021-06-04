@@ -1,4 +1,4 @@
 Healthcare professional aspiring data scientist 🥼➡📈
 
-* github 이후 추가됨
+* 먼저 추가
 

@@ -13,4 +13,3 @@ Healthcare Professional aspiring Data Scientist 🥼➡📈
 > Web Client: Html5, Javascript, jQuery, Ajax
 
 > Online IDE & Hosting: Python Anywhere  
-

@@ -1,15 +1,12 @@
 Healthcare Professional aspiring Data Scientist 🥼➡📈
 
-> Language: Python, R, SQL, CSS
+| Tools                    | **I am on**                                                  |
+| :----------------------- | ------------------------------------------------------------ |
+| **Language**             | Python, SQL, R                                               |
+| **IDE**                  | PyCharm, Jupyter Notebook, Visual Studio Code, Spider        |
+| **Analysis**             | Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, Folium, Scipy, Statsmodels |
+| **Visualization**        | HighCharts, Tableau                                          |
+| **Web Framework/Server** | Django                                                       |
+| **Web Client**           | HTML5, Javascript(jQuery), CSS                               |
+| **Web Hosting**          | Python Anywhere, Goorm                                       |
 
-> IDE: PyCharm, Visual Studio Code, Jupyter Notebook
-
-> Library: Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, Folium, Statsmodels, Scipy
-
-> Visualisation Tool: HighCharts
-
-> Web Server: Django
-
-> Web Client: Html5, Javascript, jQuery, Ajax
-
-> Online IDE & Hosting: Python Anywhere  

@@ -1,4 +1,4 @@
-Healthcare Professional aspiring Data Scientist 🥼➡📈
+Aspiring data scientist 
 
 | Tools                    | **I am on**                                                  |
 | :----------------------- | ------------------------------------------------------------ |
